@@ -1,5 +1,8 @@
 # Anthropogenic-signal-evaluation-for-PRS
 Welcome to the Anthropogenic-signal-evaluation-for-PRS wiki!
+
+Relevant autocorrlations are in projects. 
+
 This repository will showcase autocorrelations for direct and reflected path anthropogenic signals as they travel to and through a glacier from nearby illuminators of opportunity. 
 The autocorrelation plots will be of LTE, DVB-T, DAB, and GSM signals. 
 
